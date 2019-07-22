@@ -1,1 +1,1 @@
-# Logic Demo trials for projects
+# Logic Demo trials for my projects
